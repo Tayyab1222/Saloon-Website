@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix shine-saloon",
+  "description": "Imported from GitHub: itsorhan666-tech/shine-saloon",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

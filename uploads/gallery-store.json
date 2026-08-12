@@ -1,0 +1,74 @@
+[
+  {
+    "id": "img_1786120385701_8a9ff3",
+    "filename": "gallery-1786120385697-aa9c90a7.jpg",
+    "url": "/uploads/gallery-1786120385697-aa9c90a7.jpg",
+    "category": "BRIDAL",
+    "title": "Test Image",
+    "uploadedAt": "2026-08-07T16:33:05.701Z",
+    "size": 19
+  },
+  {
+    "id": "gallery-seed-01",
+    "filename": "hair-01.jpg",
+    "url": "https://images.unsplash.com/photo-1560066984-138dadb4c035?q=80&w=1200&auto=format&fit=crop",
+    "category": "HAIR",
+    "title": "Silk Press & Editorial Restyle",
+    "uploadedAt": "2026-08-01T10:00:00.000Z",
+    "widthRatio": "large"
+  },
+  {
+    "id": "gallery-seed-02",
+    "filename": "bridal-01.jpg",
+    "url": "https://images.unsplash.com/photo-1595476108010-b4d1f102b1b1?q=80&w=1200&auto=format&fit=crop",
+    "category": "BRIDAL",
+    "title": "Couture Bridal Glam & Hollywood Waves",
+    "uploadedAt": "2026-08-02T11:30:00.000Z",
+    "widthRatio": "portrait"
+  },
+  {
+    "id": "gallery-seed-03",
+    "filename": "colour-01.jpg",
+    "url": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?q=80&w=1200&auto=format&fit=crop",
+    "category": "BEAUTY",
+    "title": "Dimensional Honey Balayage",
+    "uploadedAt": "2026-08-03T09:15:00.000Z",
+    "widthRatio": "medium"
+  },
+  {
+    "id": "gallery-seed-04",
+    "filename": "makeup-01.jpg",
+    "url": "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?q=80&w=1200&auto=format&fit=crop",
+    "category": "MAKEUP",
+    "title": "Soft Glam Editorial Portrait",
+    "uploadedAt": "2026-08-04T14:20:00.000Z",
+    "widthRatio": "portrait"
+  },
+  {
+    "id": "gallery-seed-05",
+    "filename": "grooming-01.jpg",
+    "url": "https://images.unsplash.com/photo-1503951914875-452162b0f3f1?q=80&w=1200&auto=format&fit=crop",
+    "category": "SALON",
+    "title": "Precision Haircut & Beard Sculpt",
+    "uploadedAt": "2026-08-05T16:00:00.000Z",
+    "widthRatio": "landscape"
+  },
+  {
+    "id": "gallery-seed-06",
+    "filename": "hair-02.jpg",
+    "url": "https://images.unsplash.com/photo-1562322140-8baeececf3df?q=80&w=1200&auto=format&fit=crop",
+    "category": "TRANSFORMATION",
+    "title": "Glossing Treatment & Smooth Blowdry",
+    "uploadedAt": "2026-08-06T12:45:00.000Z",
+    "widthRatio": "large"
+  },
+  {
+    "id": "gallery-seed-07",
+    "filename": "bridal-02.jpg",
+    "url": "https://images.unsplash.com/photo-1519699047748-de8e457a634e?q=80&w=1200&auto=format&fit=crop",
+    "category": "BRIDAL",
+    "title": "Bespoke Bridal Styling",
+    "uploadedAt": "2026-08-07T08:00:00.000Z",
+    "widthRatio": "medium"
+  }
+]

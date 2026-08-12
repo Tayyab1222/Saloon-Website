@@ -1,0 +1,348 @@
+{
+  "home": {
+    "hero": {
+      "url": "/uploads/home/hero-1786432905930.jpg",
+      "filename": "hero-1786432905930.jpg",
+      "uploadedAt": "2026-08-11T07:21:45.931Z",
+      "size": 354842
+    },
+    "intro": {
+      "url": "/uploads/home/intro-1786432991385.jpg",
+      "filename": "intro-1786432991385.jpg",
+      "uploadedAt": "2026-08-11T07:23:11.386Z",
+      "size": 203545
+    },
+    "bridal": {
+      "url": "/uploads/home/bridal-1786434367087.jpg",
+      "filename": "bridal-1786434367087.jpg",
+      "uploadedAt": "2026-08-11T07:46:07.088Z",
+      "size": 261897
+    },
+    "salon": {
+      "url": "/uploads/home/salon-1786432952489.jpg",
+      "filename": "salon-1786432952489.jpg",
+      "uploadedAt": "2026-08-11T07:22:32.490Z",
+      "size": 209789
+    },
+    "moreThanSalon": {
+      "url": "/uploads/home/more-than-salon.jpg",
+      "filename": "more-than-salon.jpg"
+    },
+    "awardWinning": {
+      "url": "/uploads/home/home-award-winning.jpg",
+      "filename": "home-award-winning.jpg"
+    }
+  },
+  "hero": {
+    "poster": {
+      "url": "/uploads/hero/poster-1786433010602.jpg",
+      "filename": "poster-1786433010602.jpg",
+      "uploadedAt": "2026-08-11T07:23:30.603Z",
+      "size": 203545
+    },
+    "transformationPoster": {
+      "url": "/uploads/hero/hero-transformation.jpg",
+      "filename": "hero-transformation.jpg"
+    },
+    "bridalPoster": {
+      "url": "/uploads/hero/hero-bridal.jpg",
+      "filename": "hero-bridal.jpg"
+    },
+    "experiencePoster": {
+      "url": "/uploads/hero/hero-experience.jpg",
+      "filename": "hero-experience.jpg"
+    }
+  },
+  "artist": {
+    "artist": {
+      "url": "/uploads/artist/artist-1786434709143.jpg",
+      "filename": "artist-1786434709143.jpg",
+      "uploadedAt": "2026-08-11T07:51:49.145Z",
+      "size": 330598
+    }
+  },
+  "about": {
+    "hero": {
+      "url": "/uploads/about/hero-1786434435422.jpg",
+      "filename": "hero-1786434435422.jpg",
+      "uploadedAt": "2026-08-11T07:47:15.423Z",
+      "size": 172127
+    },
+    "story": {
+      "url": "/uploads/about/story.jpg",
+      "filename": "story.jpg"
+    },
+    "celebrity": {
+      "url": "/uploads/about/celebrity-1786434447919.jpg",
+      "filename": "celebrity-1786434447919.jpg",
+      "uploadedAt": "2026-08-11T07:47:27.920Z",
+      "size": 195838
+    },
+    "moreThanSalon": {
+      "url": "/uploads/about/more-than-salon.jpg",
+      "filename": "more-than-salon.jpg"
+    },
+    "experience": {
+      "url": "/uploads/about/experience.jpg",
+      "filename": "experience.jpg"
+    },
+    "salon": {
+      "url": "/uploads/about/about-01.jpg",
+      "filename": "about-01.jpg"
+    },
+    "team1": {
+      "url": "/uploads/about/about-team-01.jpg",
+      "filename": "about-team-01.jpg"
+    },
+    "team2": {
+      "url": "/uploads/about/about-team-02.jpg",
+      "filename": "about-team-02.jpg"
+    },
+    "team3": {
+      "url": "/uploads/about/about-team-03.jpg",
+      "filename": "about-team-03.jpg"
+    }
+  },
+  "services": {
+    "hero": {
+      "url": "/uploads/services/hero-1786434762367.jpg",
+      "filename": "hero-1786434762367.jpg",
+      "uploadedAt": "2026-08-11T07:52:42.368Z",
+      "size": 209789
+    },
+    "ladiesHair": {
+      "url": "/uploads/services/ladiesHair-1786438910996.jpeg",
+      "filename": "ladiesHair-1786438910996.jpeg",
+      "uploadedAt": "2026-08-11T09:01:50.998Z",
+      "size": 643266
+    },
+    "mensGrooming": {
+      "url": "/uploads/services/mensGrooming-1786434866768.jpg",
+      "filename": "mensGrooming-1786434866768.jpg",
+      "uploadedAt": "2026-08-11T07:54:26.768Z",
+      "size": 76909
+    },
+    "childrenHaircuts": {
+      "url": "/uploads/services/childrenHaircuts-1786434881668.jpg",
+      "filename": "childrenHaircuts-1786434881668.jpg",
+      "uploadedAt": "2026-08-11T07:54:41.669Z",
+      "size": 511977
+    },
+    "hairColour": {
+      "url": "/uploads/services/hairColour-1786439801429.jpeg",
+      "filename": "hairColour-1786439801429.jpeg",
+      "uploadedAt": "2026-08-11T09:16:41.430Z",
+      "size": 320299
+    },
+    "hairStyling": {
+      "url": "/uploads/services/hairStyling-1786434980830.jpeg",
+      "filename": "hairStyling-1786434980830.jpeg",
+      "uploadedAt": "2026-08-11T07:56:20.832Z",
+      "size": 225708
+    },
+    "bridalHairMakeup": {
+      "url": "/uploads/services/bridalHairMakeup-1786439293893.jpeg",
+      "filename": "bridalHairMakeup-1786439293893.jpeg",
+      "uploadedAt": "2026-08-11T09:08:13.895Z",
+      "size": 523103
+    },
+    "professionalMakeup": {
+      "url": "/uploads/services/professionalMakeup-1786439488902.png",
+      "filename": "professionalMakeup-1786439488902.png",
+      "uploadedAt": "2026-08-11T09:11:28.905Z",
+      "size": 1653863
+    },
+    "hairTreatments": {
+      "url": "/uploads/services/hairTreatments-1786439477850.jpg",
+      "filename": "hairTreatments-1786439477850.jpg",
+      "uploadedAt": "2026-08-11T09:11:17.851Z",
+      "size": 70397
+    },
+    "hair": {
+      "url": "/uploads/services/ladiesHair-1786438910996.jpeg",
+      "filename": "ladiesHair-1786438910996.jpeg",
+      "uploadedAt": "2026-08-11T09:01:50.998Z",
+      "size": 643266
+    },
+    "colour": {
+      "url": "/uploads/services/hairColour-1786439801429.jpeg",
+      "filename": "hairColour-1786439801429.jpeg",
+      "uploadedAt": "2026-08-11T09:16:41.430Z",
+      "size": 320299
+    },
+    "beauty": {
+      "url": "/uploads/services/beauty-1786439580747.jpeg",
+      "filename": "beauty-1786439580747.jpeg",
+      "uploadedAt": "2026-08-11T09:13:00.748Z",
+      "size": 510165
+    },
+    "bridal": {
+      "url": "/uploads/services/bridalHairMakeup-1786439293893.jpeg",
+      "filename": "bridalHairMakeup-1786439293893.jpeg",
+      "uploadedAt": "2026-08-11T09:08:13.895Z",
+      "size": 523103
+    },
+    "makeup": {
+      "url": "/uploads/services/professionalMakeup-1786439488902.png",
+      "filename": "professionalMakeup-1786439488902.png",
+      "uploadedAt": "2026-08-11T09:11:28.905Z",
+      "size": 1653863
+    },
+    "treatments": {
+      "url": "/uploads/services/hairTreatments-1786439477850.jpg",
+      "filename": "hairTreatments-1786439477850.jpg",
+      "uploadedAt": "2026-08-11T09:11:17.851Z",
+      "size": 70397
+    },
+    "transformations": {
+      "url": "/uploads/services/service-transformations.jpg",
+      "filename": "service-transformations.jpg"
+    },
+    "before": {
+      "url": "/uploads/services/service-before.jpg",
+      "filename": "service-before.jpg"
+    },
+    "after": {
+      "url": "/uploads/services/service-after.jpg",
+      "filename": "service-after.jpg"
+    }
+  },
+  "awards": {
+    "hero": {
+      "url": "/uploads/awards/hero-1786440043371.jpg",
+      "filename": "hero-1786440043371.jpg",
+      "uploadedAt": "2026-08-11T09:20:43.372Z",
+      "size": 219075
+    },
+    "award1": {
+      "url": "/uploads/awards/award-01.jpg",
+      "filename": "award-01.jpg"
+    },
+    "award2": {
+      "url": "/uploads/awards/award-02.jpg",
+      "filename": "award-02.jpg"
+    },
+    "award3": {
+      "url": "/uploads/awards/award-03.jpg",
+      "filename": "award-03.jpg"
+    }
+  },
+  "gallery": {
+    "hero": {
+      "url": "/uploads/gallery/hero.jpg",
+      "filename": "hero.jpg"
+    }
+  },
+  "reviews": {
+    "hero": {
+      "url": "/uploads/reviews/hero-1786441211453.jpeg",
+      "filename": "hero-1786441211453.jpeg",
+      "uploadedAt": "2026-08-11T09:40:11.454Z",
+      "size": 277587
+    },
+    "review1": {
+      "url": "/uploads/reviews/review-01.jpg",
+      "filename": "review-01.jpg"
+    },
+    "review2": {
+      "url": "/uploads/reviews/review-02.jpg",
+      "filename": "review-02.jpg"
+    },
+    "review3": {
+      "url": "/uploads/reviews/review-03.jpg",
+      "filename": "review-03.jpg"
+    },
+    "review4": {
+      "url": "/uploads/reviews/review-04.jpg",
+      "filename": "review-04.jpg"
+    }
+  },
+  "instagram": {
+    "post1": {
+      "url": "/uploads/instagram/instagram-01.jpg",
+      "filename": "instagram-01.jpg"
+    },
+    "post2": {
+      "url": "/uploads/instagram/instagram-02.jpg",
+      "filename": "instagram-02.jpg"
+    },
+    "post3": {
+      "url": "/uploads/instagram/instagram-03.jpg",
+      "filename": "instagram-03.jpg"
+    },
+    "post4": {
+      "url": "/uploads/instagram/instagram-04.jpg",
+      "filename": "instagram-04.jpg"
+    },
+    "post5": {
+      "url": "/uploads/instagram/instagram-05.jpg",
+      "filename": "instagram-05.jpg"
+    },
+    "post6": {
+      "url": "/uploads/instagram/instagram-06.jpg",
+      "filename": "instagram-06.jpg"
+    },
+    "post7": {
+      "url": "/uploads/instagram/instagram-07.jpg",
+      "filename": "instagram-07.jpg"
+    },
+    "post8": {
+      "url": "/uploads/instagram/instagram-08.jpg",
+      "filename": "instagram-08.jpg"
+    },
+    "post9": {
+      "url": "/uploads/instagram/instagram-09.jpg",
+      "filename": "instagram-09.jpg"
+    },
+    "post10": {
+      "url": "/uploads/instagram/instagram-10.jpg",
+      "filename": "instagram-10.jpg"
+    }
+  },
+  "journal": {
+    "journal1": {
+      "url": "/uploads/journal/journal-01.jpg",
+      "filename": "journal-01.jpg"
+    },
+    "journal2": {
+      "url": "/uploads/journal/journal-02.jpg",
+      "filename": "journal-02.jpg"
+    },
+    "journal3": {
+      "url": "/uploads/journal/journal-03.jpg",
+      "filename": "journal-03.jpg"
+    }
+  },
+  "booking": {
+    "hero": {
+      "url": "/uploads/booking/hero-1786441239468.jpeg",
+      "filename": "hero-1786441239468.jpeg",
+      "uploadedAt": "2026-08-11T09:40:39.469Z",
+      "size": 362221
+    },
+    "booking1": {
+      "url": "/uploads/booking/booking-01.jpg",
+      "filename": "booking-01.jpg"
+    }
+  },
+  "contact": {
+    "hero": {
+      "url": "/uploads/contact/hero.jpg",
+      "filename": "hero.jpg"
+    },
+    "contact1": {
+      "url": "/uploads/contact/contact-01.jpg",
+      "filename": "contact-01.jpg"
+    }
+  },
+  "common": {
+    "background": {
+      "url": "/uploads/common/background.jpg",
+      "filename": "background.jpg"
+    },
+    "logo": {
+      "url": "/uploads/common/logo.jpg",
+      "filename": "logo.jpg"
+    }
+  }
+}
